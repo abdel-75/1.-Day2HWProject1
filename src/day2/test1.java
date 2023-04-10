@@ -11,5 +11,10 @@ public class test1 {
     	System.out.println(firstName + lastName);
     	
     }
+     public void getMoreInfo(int age, String country , String city) {
+    	 
+    	 System.out.println(age + country + city );
+    	 
+     }
 
 }
