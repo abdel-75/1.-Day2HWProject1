@@ -6,5 +6,10 @@ public class test1 {
 		System.out.println("this is first test..");
 		
 	}
+    public void getInfo( String firstName, String lastName ) {
+    	
+    	System.out.println(firstName + lastName);
+    	
+    }
 
 }
